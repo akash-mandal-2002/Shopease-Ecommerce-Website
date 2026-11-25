@@ -1,0 +1,31 @@
+[
+  {
+    "id": "ORD-MUTWPLZP",
+    "userId": "sample-customer-1",
+    "orderDate": "2026-10-04T14:19:01.909Z",
+    "status": "confirmed",
+    "shippingAddress": {
+      "line1": "10 Sample Road",
+      "city": "Sample City",
+      "state": "Sample State",
+      "pincode": "000000",
+      "phone": "9000000001",
+      "name": "Demo Customer"
+    },
+    "items": [
+      {
+        "productId": "dummy-11",
+        "title": "Annibale Colombo Bed",
+        "image": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp",
+        "price": 161499,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 161499,
+    "shipping": 0,
+    "tax": 8075,
+    "totalAmount": 169574,
+    "paymentMethod": "cod",
+    "paymentStatus": "pending"
+  }
+]

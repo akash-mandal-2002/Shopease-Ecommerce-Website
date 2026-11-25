@@ -1,0 +1,14 @@
+[
+  {
+    "id": "sample-customer-1",
+    "name": "Demo Customer",
+    "email": "demo-customer-1@example.test",
+    "phone": "9000000001",
+    "password": "$2b$12$YUXw.9naqUiGBw84SbLCm..d6xJmGHGRNe8MDV.cn1JHmjbT3VYwm",
+    "address": "10 Sample Road",
+    "pincode": "000000",
+    "gender": "",
+    "role": "customer",
+    "createdAt": "2026-10-04T13:45:35.605Z"
+  }
+]
